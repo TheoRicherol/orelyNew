@@ -69,6 +69,9 @@ img {
 .col-2{
     grid-area: 2/5/3/9;
 }
+.col-3{
+    grid-area: 2/9/3/13;
+}
 
 .article .categories h4 {
     display: inline;
@@ -87,6 +90,6 @@ img {
     background-color: #1D93EE;
 }
 
-.col-2 h4{
+.col-2 h4,.col-3 h4{
     background-color: #C12151;
 }
